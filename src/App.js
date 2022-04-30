@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { Component } from 'react';
 import './App.css';
 import { CardList } from './components/card-list/card-list.component';
@@ -20,8 +21,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <CardList />
+          <CardList>
           {
             this.state.monsters.map((m) => (
 
@@ -30,8 +30,7 @@ class App extends Component {
             ))
 
           }
-
-        </header>
+          </CardList>
       </div>
     );
   }
