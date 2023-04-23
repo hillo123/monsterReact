@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monsterReact/static/css/main.807e3010.css",
-    "main.js": "/monsterReact/static/js/main.f98dd092.js",
+    "main.css": "/monsterReact/static/css/main.3e9b0b65.css",
+    "main.js": "/monsterReact/static/js/main.b05bf069.js",
     "static/js/787.2e06231d.chunk.js": "/monsterReact/static/js/787.2e06231d.chunk.js",
     "index.html": "/monsterReact/index.html",
-    "main.807e3010.css.map": "/monsterReact/static/css/main.807e3010.css.map",
-    "main.f98dd092.js.map": "/monsterReact/static/js/main.f98dd092.js.map",
+    "main.3e9b0b65.css.map": "/monsterReact/static/css/main.3e9b0b65.css.map",
+    "main.b05bf069.js.map": "/monsterReact/static/js/main.b05bf069.js.map",
     "787.2e06231d.chunk.js.map": "/monsterReact/static/js/787.2e06231d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.807e3010.css",
-    "static/js/main.f98dd092.js"
+    "static/css/main.3e9b0b65.css",
+    "static/js/main.b05bf069.js"
   ]
 }
